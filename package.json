@@ -1,7 +1,7 @@
 {
   "name": "udt-transform-delete-samples",
-  "version": "1.0.3",
-  "main": "index.js",
+  "version": "1.0.4",
+  "main": "plugin-config.js",
   "repository": "git@github.com:UniversalDataTool/udt-transform-delete-samples.git",
   "author": "seveibar <seveibar@gmail.com>",
   "license": "MIT",
