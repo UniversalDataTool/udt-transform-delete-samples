@@ -13,7 +13,7 @@ export default ({
   `.trim()
 
   addAction({
-    name: "Delete All Samples",
+    text: "Delete All Samples",
     onClick: () => {
       setInDataset(["samples"], [])
       onSuccess("All samples deleted!")
