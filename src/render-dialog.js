@@ -15,7 +15,7 @@ export default ({
   addAction({
     name: "Delete All Samples",
     onClick: () => {
-      setInDataset(dataset, ["samples"], [])
+      setInDataset(["samples"], [])
       onSuccess("All samples deleted!")
     },
   })
